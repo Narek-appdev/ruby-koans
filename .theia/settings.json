@@ -3,5 +3,7 @@
   "editor.tabSize": 2,
   "emmet.includeLanguages": {
     "erb": "html"
-  }
+  },
+  "editor.fontLigatures": false,
+  "git.decorations.colors": true
 }
